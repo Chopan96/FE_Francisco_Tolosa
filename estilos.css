@@ -1,0 +1,35 @@
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+body{
+    background-image: url(Imagenes/fondo.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+.precio{
+    text-align: right;
+}
+
+footer{
+    bottom: 100%;
+    background-color: black;
+    border-top: solid grey 2px;
+    padding: 18px;
+}
+
+.titulo{
+    margin: 20px;
+    background-color: rgba(220, 20, 60, 0.144);
+    text-align: center;
+    border-bottom: solid 1px rgba(0, 139, 139, 0.267);
+    border-radius: 18px;
+}
+
+.Productos{
+    margin-bottom: 30px;
+}
